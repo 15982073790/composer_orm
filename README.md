@@ -25,4 +25,4 @@ PSR-2 coding guidelines. Any new code contributions must be accompanied by unit 
 
 ## License
 
-MIT
+MIT dev-master
